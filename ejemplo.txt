@@ -1,1 +1,4 @@
 Hola a todos y bienvenidos a la clase de Git y GitHub :)
+
+Espero que aprendan muy bien a usar Git y lo apliquen este ciclo y sus futuros
+trabajos como developers
